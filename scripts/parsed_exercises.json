@@ -1,0 +1,1102 @@
+[
+  {
+    "sourceFile": "Unit 01 Metals and Engineering Materials 同步练习.md",
+    "sourceId": "Q01",
+    "unit": 1,
+    "question": "What advantages of metals are mentioned in the first paragraph?",
+    "answer": "Strength, toughness, and appearance are mentioned. Strength and toughness are identified as the main advantage of metals.",
+    "locations": "Lesson 1，Para. 1；PPT 第 26 页；Excel Unit 1，B2–E2。",
+    "type": "Reading Comprehension",
+    "materials": "PPT 原题与 Excel 原题。依据句：“Appearance is also an important factor.” “The main advantage of metals is their strength and toughness.” 讲解时区分外观这一选择因素与金属的主要性能优势。"
+  },
+  {
+    "sourceFile": "Unit 01 Metals and Engineering Materials 同步练习.md",
+    "sourceId": "Q02",
+    "unit": 1,
+    "question": "What other advantage of metals is mentioned in the second paragraph?",
+    "answer": "Metal objects can often be broken down and the metals recycled.",
+    "locations": "Lesson 1，Para. 2；PPT 第 27 页；Excel Unit 1，B3–E3。",
+    "type": "Reading Comprehension",
+    "materials": "PPT 原题，单复数作语言整理。关注 be broken down 与 be recycled。答案限定为本段对金属回收的说明。"
+  },
+  {
+    "sourceFile": "Unit 01 Metals and Engineering Materials 同步练习.md",
+    "sourceId": "Q03",
+    "unit": 1,
+    "question": "Translate into Chinese: “The most important engineering metal is iron (Fe), which in the form of alloys with carbon (C) and other elements, finds greater use than any other metal.”",
+    "answer": "最重要的工程金属是铁（Fe）。铁以与碳（C）及其他元素形成合金的形式，比其他任何金属都得到更广泛的应用。",
+    "locations": "Lesson 1，Para. 4；PPT 第 28–29 页；Excel Unit 1，B4–E4。",
+    "type": "Translations",
+    "materials": "Excel 翻译题与 PPT 原句。关注 which 的指代及 in the form of alloys。讲义同句有 “which is the form” 的疑似笔误，此题采用 PPT 版本。译文不加入“自然界中通常以合金形态存在”的表述。"
+  },
+  {
+    "sourceFile": "Unit 01 Metals and Engineering Materials 同步练习.md",
+    "sourceId": "Q04",
+    "unit": 1,
+    "question": "Complete the sentences according to Lesson 1: All metals can be classified as either ______ or ______. Metals consisting of iron combined with some other elements are known as ______ metals. Copper, aluminum, lead, zinc and tin are examples of ______ metals.",
+    "answer": "ferrous; non-ferrous; ferrous; non-ferrous.",
+    "locations": "Lesson 1，Para. 4；PPT 第 30、43 页；Excel Unit 1，B5–B6、B18–B20。",
+    "type": "Practice(Fill in the blanks)",
+    "materials": "合并 PPT 分类题并根据讲义措辞整理。ferrous metals 译为“黑色金属”，non-ferrous metals 译为“有色金属”。不把 PPT 中关于磁性的绝对化表述加入填空条件。"
+  },
+  {
+    "sourceFile": "Unit 01 Metals and Engineering Materials 同步练习.md",
+    "sourceId": "Q05",
+    "unit": 1,
+    "question": "According to the text, why are the listed non-ferrous metals used much less than ferrous metals?",
+    "answer": "Because ferrous metals are much cheaper.",
+    "locations": "Lesson 1，Para. 4；PPT 第 31 页；Excel Unit 1，B8–E8。",
+    "type": "Reading Comprehension",
+    "materials": "PPT 与 Excel 原题，补入 according to the text 限定回答范围。"
+  },
+  {
+    "sourceFile": "Unit 01 Metals and Engineering Materials 同步练习.md",
+    "sourceId": "Q06",
+    "unit": 1,
+    "question": "Give the Chinese meanings of “alloy” and “alloying”. Then explain the purpose of alloying using the text.",
+    "answer": "alloy：合金；alloying：合金化。Alloying is used to obtain required special properties, such as strength, toughness, resistance to wear, or corrosion resistance.",
+    "locations": "Lesson 1，Para. 5；PPT 第 34、36 页；Excel Unit 1，B11–F11。",
+    "type": "Term",
+    "materials": "合并 PPT 术语定义与 “What is alloying?”。PPT 第 34 页将合金定义为由两种或多种化学元素组成、至少一种为金属的材料。采用该定义，不沿用第 44 页仅限“两种或多种金属”的简化答案。"
+  },
+  {
+    "sourceFile": "Unit 01 Metals and Engineering Materials 同步练习.md",
+    "sourceId": "Q07",
+    "unit": 1,
+    "question": "What is metallurgy?",
+    "answer": "The various processes involved in extracting metals from their ores and refining them for use are referred to as metallurgy.",
+    "locations": "Lesson 1，Para. 6；PPT 第 37–38 页；Excel Unit 1，B12–F12。",
+    "type": "Reading Comprehension",
+    "materials": "PPT 与 Excel 原题。同步词组：extract metals from their ores；refine them for use。保留这两个动作作为后续追问的依据。"
+  },
+  {
+    "sourceFile": "Unit 01 Metals and Engineering Materials 同步练习.md",
+    "sourceId": "Q08",
+    "unit": 1,
+    "question": "Complete the classification using examples from Lesson 2: Metallic materials include ______ and ______. Nonmetallic materials include ______ and ______.",
+    "answer": "Examples: iron and copper; wood and glass. Other examples listed in the paragraph are also acceptable, such as aluminum and steel, or rubber and plastics.",
+    "locations": "Lesson 2，Para. 1；PPT 第 56 页。",
+    "type": "Practice(Fill in the blanks)",
+    "materials": "PPT 原有填空题，改为每类列举两例，使作答要求明确。金属材料一栏可接受课文列出的金属及其合金。"
+  },
+  {
+    "sourceFile": "Unit 01 Metals and Engineering Materials 同步练习.md",
+    "sourceId": "Q09",
+    "unit": 1,
+    "question": "Translate into Chinese: “Where the required properties are available in both, total cost becomes the determining factor.”",
+    "answer": "当金属材料和非金属材料都能满足所需性能时，总成本就成为决定性因素。",
+    "locations": "Lesson 2，Para. 2；PPT 第 56 页。",
+    "type": "Translations",
+    "materials": "PPT 明示翻译题。Where 表示条件；both 指上文的两类材料；determining factor 译为“决定性因素”。"
+  },
+  {
+    "sourceFile": "Unit 01 Metals and Engineering Materials 同步练习.md",
+    "sourceId": "Q10",
+    "unit": 1,
+    "question": "Complete the definitions: (a) ______ is the ability to resist applied forces. (b) ______ is the ability to resist penetration and abrasion. (c) ______ is the ability to spring back to the original shape. (d) ______ is the ability to undergo permanent changes of shape without rupturing. (e) ______ is the ability to absorb mechanically applied energy.",
+    "answer": "(a) Strength（强度）；(b) Hardness（硬度）；(c) Elasticity（弹性）；(d) Ductility（延性）；(e) Toughness（韧性）。",
+    "locations": "Lesson 2，Para. 4 及其后编号 1–5 的性能说明；PPT 第 57–61 页。",
+    "type": "Practice(Fill in the blanks)",
+    "materials": "据 PPT 性能说明与讲义定义改编。总定义：“Mechanical properties are the characteristic responses of a material to applied forces.” 以讲义完整定义为答案依据，避免把延性仅解释为“可拉伸的长度”。\n\n## 选题说明\n\nExcel 的 Unit 1 示例共 21 条。本稿合并相近分类题与术语题，保留 10 题，并覆盖两篇课文。材料史、航空材料、纯银和有色金属用途表属于拓展，未作为课文同步题选入。"
+  },
+  {
+    "sourceFile": "Unit 02 Powder Metallurgy 同步练习.md",
+    "sourceId": "Q01",
+    "unit": 2,
+    "question": "What is powder metallurgy?",
+    "answer": "Powder metallurgy is a processing technology in which parts are produced by compacting and sintering metallic and/or nonmetallic powders.",
+    "locations": "Lesson 1，Definition 首段；PPT 第 11 页。",
+    "type": "Reading Comprehension",
+    "materials": "PPT 原题。两个关键过程是 compacting 与 sintering。不以第 12–14 页的 3D 打印拓展内容替代课文中的粉末冶金定义。"
+  },
+  {
+    "sourceFile": "Unit 02 Powder Metallurgy 同步练习.md",
+    "sourceId": "Q02",
+    "unit": 2,
+    "question": "What do “net shape” and “near net shape” mean in the context of the first paragraph?",
+    "answer": "They describe parts made to the final shape or close to it, so subsequent machining is eliminated or reduced. 中文：净成形、近净成形。",
+    "locations": "Lesson 1，Definition 首段末句；PPT 第 11 页第二问。",
+    "type": "Term",
+    "materials": "PPT 原题。利用原文 “eliminating or reducing the need for subsequent machining operation” 理解两个术语，不引入额外的尺寸标准。"
+  },
+  {
+    "sourceFile": "Unit 02 Powder Metallurgy 同步练习.md",
+    "sourceId": "Q03",
+    "unit": 2,
+    "question": "Complete the process according to the text: Select and produce suitable powders → weigh and ______ them → press or ______ the blended powders in dies → ______ the green compacts → carry out finishing operations if needed.",
+    "answer": "mix; compact; sinter.",
+    "locations": "Lesson 1，Definition 第二段；PPT 第 15 页。",
+    "type": "Practice(Fill in the blanks)",
+    "materials": "根据 PPT “What are the basic steps of powder metallurgy?” 及其答案改编为顺序填空。green compacts 指烧结前的压坯。"
+  },
+  {
+    "sourceFile": "Unit 02 Powder Metallurgy 同步练习.md",
+    "sourceId": "Q04",
+    "unit": 2,
+    "question": "What is the greatest advantage of powder metallurgy stated in Lesson 1? What happens to most unused material?",
+    "answer": "It wastes very little material. Almost all unused material remains in powder form and can be recycled for the next product.",
+    "locations": "Lesson 1，Advantages；PPT 第 23–24 页。",
+    "type": "Reading Comprehension",
+    "materials": "将 PPT 的优势问题限定为讲义强调的材料利用。讲义写 “less than 3% scrap losses”，如需补充数值应保留 less than 的限定。"
+  },
+  {
+    "sourceFile": "Unit 02 Powder Metallurgy 同步练习.md",
+    "sourceId": "Q05",
+    "unit": 2,
+    "question": "Give three limitations of powder metallurgy mentioned in the text.",
+    "answer": "Examples: high tooling costs, expensive raw powders, variation in density and mechanical properties, difficulty making relatively long parts, and difficulty storing and handling some powders. Any three are acceptable.",
+    "locations": "Lesson 1，Limitations 列表；PPT 第 25 页。",
+    "type": "Reading Comprehension",
+    "materials": "据 PPT 局限列表改编。可接受列表内的其他三项，但不能将某一局限概括为“无法制造所有复杂形状”。"
+  },
+  {
+    "sourceFile": "Unit 02 Powder Metallurgy 同步练习.md",
+    "sourceId": "Q06",
+    "unit": 2,
+    "question": "Give the Chinese meanings of “green compacts”, “scrap”, and “tooling cost” in this unit.",
+    "answer": "green compacts：生坯／未烧结压坯；scrap：废料；tooling cost：工装费用／模具工装成本。",
+    "locations": "Lesson 1，Definition 第二段、Advantages、Limitations；PPT 第 29 页。",
+    "type": "Term",
+    "materials": "PPT 原有术语表改为可作答的术语题。第 29 页将 tooling cost 译为“加工成本”，本题按其与 dies 相关的上下文推荐“工装费用”，避免与全部加工成本混淆。"
+  },
+  {
+    "sourceFile": "Unit 02 Powder Metallurgy 同步练习.md",
+    "sourceId": "Q07",
+    "unit": 2,
+    "question": "Complete the definition summary: Powder metallurgy includes producing ______ and objects shaped from individual, mixed, or ______ metal powders. Objects are pressed or molded and may be heated simultaneously or ______.",
+    "answer": "metal powders; alloyed; subsequently.",
+    "locations": "Lesson 2，Para. 1；PPT 第 32–33 页。",
+    "type": "Practice(Fill in the blanks)",
+    "materials": "据 PPT 第 33 页原有定义填空整理。保留 simultaneously / subsequently 的区别，即同时加热或随后加热。"
+  },
+  {
+    "sourceFile": "Unit 02 Powder Metallurgy 同步练习.md",
+    "sourceId": "Q08",
+    "unit": 2,
+    "question": "Why was powder metallurgy the only procedure for producing certain refractory metals in solid form in the situation described in the text?",
+    "answer": "Furnaces and techniques for completely melting those materials were not available. The metals therefore had to be pressed into coherent masses and sintered below their melting points.",
+    "locations": "Lesson 2，Two Unique Advantages 段前半部分；PPT 第 35 页。",
+    "type": "Reading Comprehension",
+    "materials": "PPT 原题，保留课文历史情境，不能将“唯一方法”当作适用于所有时期和所有难熔金属的断言。"
+  },
+  {
+    "sourceFile": "Unit 02 Powder Metallurgy 同步练习.md",
+    "sourceId": "Q09",
+    "unit": 2,
+    "question": "How can porous shapes be obtained by powder metallurgy, and what uses are mentioned in the text?",
+    "answer": "They can be obtained with lighter pressing pressures or lower sintering temperatures. They are used as chemical catalysts, filtering elements, and bearings.",
+    "locations": "Lesson 2，Two Unique Advantages 段后半部分；PPT 第 36–37 页。",
+    "type": "Reading Comprehension",
+    "materials": "PPT 原题增加课文内的用途追问。porous shapes 多孔制品；filtering elements 过滤元件。"
+  },
+  {
+    "sourceFile": "Unit 02 Powder Metallurgy 同步练习.md",
+    "sourceId": "Q10",
+    "unit": 2,
+    "question": "Translate into Chinese: “The application of heat results in crystalline growth and the production of a homogeneous body.”",
+    "answer": "加热促使晶体生长，并形成均质体。",
+    "locations": "Lesson 2，Process Involves a Series of Steps 段末句；PPT 第 39 页。",
+    "type": "Translations",
+    "materials": "据 PPT 原句及名词化表达提示设置翻译题。application of heat、crystalline growth、production 均为名词结构，可在汉语中转化为动词表达。\n\n## 选题说明\n\nPPT 第 2–9 页为 Unit 1 回顾，未计入本单元题目。第 29 页写 “Terms in Lesson 3”，第 32 页写 “Lesson 4”，本稿对应讲义实际的 Lesson 1、Lesson 2。讲义把传统粉末冶金直接等同于增材制造的表述，以及 PPT 对 sintering 混入 pressing 的定义，留待教师核对，本组题目不据此设判断题。"
+  },
+  {
+    "sourceFile": "Unit 03 Casting 同步练习.md",
+    "sourceId": "Q01",
+    "unit": 3,
+    "question": "Fill in the four basic foundry processes: (a) ______; (b) ______; (c) ______; (d) ______.",
+    "answer": "(a) making molds; (b) preparing and melting the metal; (c) pouring the metal into the molds; (d) cleaning the castings.",
+    "locations": "Lesson 1，Para. 2；PPT 第 5 页。",
+    "type": "Practice(Fill in the blanks)",
+    "materials": "PPT 原题。根据课文顺序填写，不将 Lesson 2 的压铸设备步骤混入这道题。"
+  },
+  {
+    "sourceFile": "Unit 03 Casting 同步练习.md",
+    "sourceId": "Q02",
+    "unit": 3,
+    "question": "Explain in Chinese: “The product of the foundry is a casting, which may vary from a fraction of a kilogram to several hundred tons.”",
+    "answer": "铸造厂生产的制品称为铸件，其质量可从不足一千克到数百吨不等。",
+    "locations": "Lesson 1，Para. 2；PPT 第 6 页。",
+    "type": "Translations",
+    "materials": "将 PPT “How do you understand the sentence…?” 整理为中文释义题。a fraction of a kilogram 表示不足一千克，vary from…to… 表示范围。"
+  },
+  {
+    "sourceFile": "Unit 03 Casting 同步练习.md",
+    "sourceId": "Q03",
+    "unit": 3,
+    "question": "What metals are most frequently cast? Which metal is particularly suitable for casting according to the text, and why?",
+    "answer": "Iron, steel, and aluminum are frequently cast. The text identifies iron as particularly suitable because of its low melting point, low price, and ease of control.",
+    "locations": "Lesson 1，Para. 3；PPT 第 7 页。",
+    "type": "Reading Comprehension",
+    "materials": "PPT 原题。答案以本段的 iron 表述为准，不扩大为所有铁基材料都具有同样熔点或铸造性能。"
+  },
+  {
+    "sourceFile": "Unit 03 Casting 同步练习.md",
+    "sourceId": "Q04",
+    "unit": 3,
+    "question": "Translate into Chinese: “Since molten materials will readily take the shape of the container into which they are poured, it is nearly as easy to cast fairly complex shapes as to produce simple forms.”",
+    "answer": "由于熔融材料很容易形成其所浇入容器的形状，因此，铸造相当复杂的形状几乎与制造简单形状一样容易。",
+    "locations": "Lesson 1，Para. 4；PPT 第 7 页。",
+    "type": "Translations",
+    "materials": "PPT 明示翻译题。关注 into which 的关系从句，以及 as easy…as… 的比较结构。此句说明教材中的成形原理，不要求学生推导工艺成本。"
+  },
+  {
+    "sourceFile": "Unit 03 Casting 同步练习.md",
+    "sourceId": "Q05",
+    "unit": 3,
+    "question": "Give the Chinese meanings of “cast iron”, “pig iron”, “foundry”, “cupola”, and “ladle”.",
+    "answer": "cast iron 铸铁；pig iron 生铁；foundry 铸造厂／铸造车间；cupola 冲天炉／化铁炉；ladle 浇包／浇注桶。",
+    "locations": "Lesson 1，Para. 5–6；PPT 第 8–11 页。",
+    "type": "Term",
+    "materials": "PPT 原有术语表改为术语练习。课文关系：生铁在冲天炉中重熔，铁液流入浇包，再浇入铸型。cupola 与 ladle 分别是熔炼和转运环节的设备。"
+  },
+  {
+    "sourceFile": "Unit 03 Casting 同步练习.md",
+    "sourceId": "Q06",
+    "unit": 3,
+    "question": "What two kinds of molds are mentioned in the text? Why is the inside of the metal mold covered with carbon or graphite?",
+    "answer": "Sand molds and metal molds are mentioned. Carbon or graphite is used on the inside of a metal mold to prevent the metal from sticking to the mold wall.",
+    "locations": "Lesson 1，Para. 7；PPT 第 14–20 页，尤其第 19 页。",
+    "type": "Reading Comprehension",
+    "materials": "据 PPT 金属型正文与讲义改编。讲义中的 “sick to” 及 PPT 中的 “be stick to” 均存在拼写或语法问题，参考答案采用 sticking to，不改变原意。"
+  },
+  {
+    "sourceFile": "Unit 03 Casting 同步练习.md",
+    "sourceId": "Q07",
+    "unit": 3,
+    "question": "Complete the sentence: Special molds for casting large blocks of steel are called ______; the blocks produced are called ______; the process is called ______.",
+    "answer": "ingot molds; ingots; ingot casting.",
+    "locations": "Lesson 1，Para. 7 后半部分；PPT 第 21 页。",
+    "type": "Practice(Fill in the blanks)",
+    "materials": "据 PPT 铸锭正文改编。分别对应“钢锭模、钢锭、铸锭”，区分设备、制品和工艺。"
+  },
+  {
+    "sourceFile": "Unit 03 Casting 同步练习.md",
+    "sourceId": "Q08",
+    "unit": 3,
+    "question": "What is the application of the cold-chamber process described in Lesson 2, and why is it useful for those metals?",
+    "answer": "It is useful for metals such as aluminum, copper, and their alloys, which alloy easily with iron at higher temperatures. Ladling metal into the chamber for each shot reduces the time the melt is exposed to the chamber and plunger.",
+    "locations": "Lesson 2，以 “For cold chamber process…” 开头的段落；PPT 第 31 页第一问。",
+    "type": "Reading Comprehension",
+    "materials": "PPT 原题，答案核对讲义。题中所述适用性限于本段举例，关注 each shot 与 less time exposure。"
+  },
+  {
+    "sourceFile": "Unit 03 Casting 同步练习.md",
+    "sourceId": "Q09",
+    "unit": 3,
+    "question": "What kinds of metals are used in the hot-chamber process according to Lesson 2?",
+    "answer": "Metals with low melting points and high fluidity, such as tin, zinc, and lead, which do not readily alloy with steel at their melting temperatures.",
+    "locations": "Lesson 2，以 “For hot chamber process…” 开头的段落；PPT 第 31 页第二问。",
+    "type": "Reading Comprehension",
+    "materials": "PPT 原题。依据段内给出的条件与 tin、zinc、lead 举例。该段结尾另出现 Copper Die Castings 的商业措辞，未作为答案依据，需教师核对。"
+  },
+  {
+    "sourceFile": "Unit 03 Casting 同步练习.md",
+    "sourceId": "Q10",
+    "unit": 3,
+    "question": "What advantages of pressure die casting over gravity die casting are given in Lesson 2?",
+    "answer": "Pressure die casting is competitive for high-volume production and can achieve better tolerances or surface finishes. Its close casting tolerances also reduce the need for machining.",
+    "locations": "Lesson 2，以 “Pressure die casting…” 开头的段落；PPT 第 31 页第三问及第 32 页。",
+    "type": "Reading Comprehension",
+    "materials": "PPT 原题。关键词：high volumes、tolerances、surface finish。只比较教材明示的方面。\n\n## 选题说明\n\nPPT 第 31 页要求阅读 “lesson 6”，对应当前讲义的 Lesson 2 Die Casting Manufacturing，已按实际标题定位。隐藏的第 12 页为强度与刚度拓展，未计题。第 25 页 corrosion / erosion 的区别未在核心课文中充分展开，未要求学生凭空补充定义。"
+  },
+  {
+    "sourceFile": "Unit 04 Forging 同步练习.md",
+    "sourceId": "Q01",
+    "unit": 4,
+    "question": "How is forging defined in the first paragraph?",
+    "answer": "Forging is the plastic working of metal by localized compressive forces exerted by manual or power hammers, presses, or special forging machines.",
+    "locations": "Para. 1 首句；PPT 第 11 页。",
+    "type": "Reading Comprehension",
+    "materials": "据 PPT 定义正文改编。必须包含 plastic working 与 compressive forces，不把锻造描述为熔融金属浇入模具。"
+  },
+  {
+    "sourceFile": "Unit 04 Forging 同步练习.md",
+    "sourceId": "Q02",
+    "unit": 4,
+    "question": "Complete the sentence: Consequently, the term “forging” usually implies ______ forging done above the ______ temperature.",
+    "answer": "hot; recrystallization.",
+    "locations": "Para. 1 末句；PPT 第 13–14 页。",
+    "type": "Practice(Fill in the blanks)",
+    "materials": "PPT 第 14 页原有填空，按讲义补足条件。recrystallization temperature 再结晶温度；usually 是教材对术语使用的限定。"
+  },
+  {
+    "sourceFile": "Unit 04 Forging 同步练习.md",
+    "sourceId": "Q03",
+    "unit": 4,
+    "question": "Translate into Chinese: “High-powered hammers and mechanical presses have replaced the strong arm, the hammer, and the anvil and modern metallurgical knowledge supplements the art skill of the craftsman in controlling the heating and handling of the metal.”",
+    "answer": "大功率锻锤和机械压力机已取代强壮的手臂、手锤和铁砧；在控制金属加热及搬运操作方面，现代冶金知识为工匠的操作技艺提供了补充。",
+    "locations": "Para. 2；PPT 第 16 页。",
+    "type": "Translations",
+    "materials": "据 PPT 原句与译文设置翻译题。metallurgical knowledge 采用“冶金知识”；supplements 表示补充，不把它直接理解为完全替代工匠技能。"
+  },
+  {
+    "sourceFile": "Unit 04 Forging 同步练习.md",
+    "sourceId": "Q04",
+    "unit": 4,
+    "question": "Complete the statements: (a) Drawing out increases ______ and decreases ______. (b) Upsetting increases ______ and decreases ______. (c) Squeezing in closed impression dies produces ______ flow.",
+    "answer": "(a) length; cross section; (b) cross section; length; (c) multidirectional.",
+    "locations": "Para. 3；PPT 第 19 页。",
+    "type": "Practice(Fill in the blanks)",
+    "materials": "据 PPT 分类正文改编。draw out 拔长；upset 镦粗。通过长度与截面的反向变化理解术语。"
+  },
+  {
+    "sourceFile": "Unit 04 Forging 同步练习.md",
+    "sourceId": "Q05",
+    "unit": 4,
+    "question": "How does the action of press forging differ from that of a hammer?",
+    "answer": "Press forging uses a slow squeezing action, while a hammer produces rapid-impact blows. The squeezing action works through the center and the entire section of the part.",
+    "locations": "Para. 4；PPT 第 22、33 页。",
+    "type": "Reading Comprehension",
+    "materials": "据 PPT 对比正文改编。比较 slow squeezing 与 rapid-impact blows，不扩展为“锤锻在任何情况下都不能使内部变形”。"
+  },
+  {
+    "sourceFile": "Unit 04 Forging 同步练习.md",
+    "sourceId": "Q06",
+    "unit": 4,
+    "question": "Complete the sentences according to the text: For small press forgings, ______ impression dies are used. Normally only ______ stroke of the ram is required. The maximum pressure is built up at the ______ of the stroke.",
+    "answer": "closed; one; end.",
+    "locations": "Para. 5 前两句；PPT 第 27 页。",
+    "type": "Practice(Fill in the blanks)",
+    "materials": "据 PPT 原句改编。PPT 使用 closed impression dies，讲义出现 close impression dies，本题采用 PPT 的 closed。ram 在该压力机语境下译为“滑块”。"
+  },
+  {
+    "sourceFile": "Unit 04 Forging 同步练习.md",
+    "sourceId": "Q07",
+    "unit": 4,
+    "question": "Translate into Chinese: “There is some difference in the design of dies for different metals; copper-alloy forgings can be made with less draft than steel, consequently more complicated shapes can be produced.”",
+    "answer": "不同金属所用的锻模在设计上有所差异。铜合金锻件可采用比钢锻件更小的拔模斜度，因此能够制造形状更复杂的制品。",
+    "locations": "Para. 5 后半部分；PPT 第 28 页。",
+    "type": "Translations",
+    "materials": "据 PPT 原句设置翻译题。draft 在本句中指“拔模斜度”，不能按日常英语译为“草稿”。比较对象在中文中补足为铜合金锻件与钢锻件。"
+  },
+  {
+    "sourceFile": "Unit 04 Forging 同步练习.md",
+    "sourceId": "Q08",
+    "unit": 4,
+    "question": "According to the comparison paragraph, what advantages does press forging offer, and what shapes can drop forging produce more economically?",
+    "answer": "Press forgings generally have smooth surfaces and closer tolerances, and presses can be used for sizing. Drop forging can produce many irregular and complicated shapes more economically.",
+    "locations": "Para. 6；PPT 第 30 页。",
+    "type": "Reading Comprehension",
+    "materials": "将 PPT 的优势对比填空整理为阅读理解，保留双方比较内容。答案依据讲义第 6 段补全 PPT 留空部分。"
+  },
+  {
+    "sourceFile": "Unit 04 Forging 同步练习.md",
+    "sourceId": "Q09",
+    "unit": 4,
+    "question": "Why are large ingots forged with hydraulic presses instead of steam hammers in the text? What additional advantages are mentioned?",
+    "answer": "The work done by a press goes deeper. A press can also work a cooler ingot and produce closer dimensions.",
+    "locations": "Para. 7，从 “Large ingots…” 起；PPT 第 32 页。",
+    "type": "Reading Comprehension",
+    "materials": "合并 PPT 同页关于液压机与第二项优势的问题。限定为教材情境，不将原文陈述改写为操作选型规范。"
+  },
+  {
+    "sourceFile": "Unit 04 Forging 同步练习.md",
+    "sourceId": "Q10",
+    "unit": 4,
+    "question": "Why is it important not to have the steel too hot in final forging? How is the temperature controlled when many pieces of the same pattern are made?",
+    "answer": "Overheated steel will have poor mechanical properties when cooled. For repeated production, furnaces are used in which pyrometers indicate the temperature, and it is often automatically controlled.",
+    "locations": "Para. 7 末部，从 “In the final forging…” 起；PPT 第 31–33 页对应本段锻造讨论，但未单列温控问题。",
+    "type": "Reading Comprehension",
+    "materials": "据讲义正文补充改编，不是 PPT 原题。关键词：overheated steel、mechanical properties、pyrometers。\n\n## 选题说明\n\nPPT 第 31–32 页将落锤锻造段标为 Para. 6；讲义在独立的压锻优势段之后另起该段，本稿按讲义实际段落记为 Para. 7。第 2–10 页的制造工艺分类与板料成形是导入内容，未计入十题。"
+  },
+  {
+    "sourceFile": "Unit 05 Heat Treatment 同步练习.md",
+    "sourceId": "Q01",
+    "unit": 5,
+    "question": "Translate into Chinese: “Heat treatment is thermal cycling involving one or more reheating and cooling operations after forging for the purpose of obtaining desired microstructures and mechanical properties in a forging.”",
+    "answer": "热处理是锻造后进行一次或多次再加热和冷却的热循环过程，目的是使锻件获得所需的显微组织和机械性能。",
+    "locations": "Para. 1；PPT 第 3–4 页。",
+    "type": "Translations",
+    "materials": "据 PPT 定义原句与译文设置翻译题。microstructures 推荐译为“显微组织”。这是课文在锻件语境中的定义，保留 after forging 的限定。"
+  },
+  {
+    "sourceFile": "Unit 05 Heat Treatment 同步练习.md",
+    "sourceId": "Q02",
+    "unit": 5,
+    "question": "Mark Y or N according to paragraph 2: (a) Few forgings are produced without some form of heat treatment. (b) Untreated forgings described here are usually low-carbon steel parts for noncritical applications, or parts intended for further hot working and subsequent heat treatment. (c) Desired properties are one factor in choosing a production cycle.",
+    "answer": "(a) Y; (b) Y; (c) Y.",
+    "locations": "Para. 2；PPT 第 6–7 页。",
+    "type": "Practice(True or False)",
+    "materials": "采用 PPT 第 6 页 Y/N 题型，按原文收窄第 (b) 项条件，避免把“未经热处理的锻件”的描述泛化为所有低碳钢零件。"
+  },
+  {
+    "sourceFile": "Unit 05 Heat Treatment 同步练习.md",
+    "sourceId": "Q03",
+    "unit": 5,
+    "question": "What factors determine which production cycle should be used?",
+    "answer": "The chemical composition of the steel, the size and shape of the product, and the desired properties.",
+    "locations": "Para. 2 末句；PPT 第 6 页。",
+    "type": "Reading Comprehension",
+    "materials": "据 PPT 正文改编。要求回答材料成分、制品尺寸形状和目标性能，不能只列一种因素。"
+  },
+  {
+    "sourceFile": "Unit 05 Heat Treatment 同步练习.md",
+    "sourceId": "Q04",
+    "unit": 5,
+    "question": "What is the object of heat treating metals?",
+    "answer": "To impart desired properties to the metal or eliminate undesirable structural conditions caused during processing or fabrication.",
+    "locations": "Para. 3 首句；PPT 第 11–12 页。",
+    "type": "Reading Comprehension",
+    "materials": "PPT 原题。参考答案忠实概括本段，不把拓展列出的每种性能变化都解释为任何热处理必然产生的结果。"
+  },
+  {
+    "sourceFile": "Unit 05 Heat Treatment 同步练习.md",
+    "sourceId": "Q05",
+    "unit": 5,
+    "question": "What should be known before a heat treatment is prescribed? If the material’s previous processing is unknown, what should be done?",
+    "answer": "The previous history or structural condition of the material should be known. If previous-processing information is unavailable, a microscopic study of the structure is desirable to determine the correct procedure.",
+    "locations": "Para. 3 后两句；PPT 第 11、13–14 页。",
+    "type": "Reading Comprehension",
+    "materials": "合并 PPT 两道原题。previous history 指材料此前的加工经历，不指个人经历或文献史。"
+  },
+  {
+    "sourceFile": "Unit 05 Heat Treatment 同步练习.md",
+    "sourceId": "Q06",
+    "unit": 5,
+    "question": "Give the Chinese names of “spheroidizing”, “normalizing”, “annealing”, “hardening”, and “tempering” in this text.",
+    "answer": "spheroidizing 球化退火；normalizing 正火；annealing 退火；hardening 淬火（本课文语境）；tempering 回火。",
+    "locations": "Para. 4；PPT 第 16–17 页。",
+    "type": "Term",
+    "materials": "据 PPT 原有方法列表改编。hardening 在一般语境可表示“硬化”，本课文紧接 heating and quenching 的定义，按 PPT 译为“淬火”。"
+  },
+  {
+    "sourceFile": "Unit 05 Heat Treatment 同步练习.md",
+    "sourceId": "Q07",
+    "unit": 5,
+    "question": "Complete the common heat-treatment stages: heat the material to a ______ temperature, hold or ______ at that temperature, and ______ at a prescribed rate.",
+    "answer": "predetermined; soak; cool.",
+    "locations": "Para. 4；PPT 第 18–19 页。",
+    "type": "Practice(Fill in the blanks)",
+    "materials": "据 PPT 热循环正文改编。soaking 在此为“保温”，不是浸泡。把 cooling rate 与三个阶段联系起来理解。"
+  },
+  {
+    "sourceFile": "Unit 05 Heat Treatment 同步练习.md",
+    "sourceId": "Q08",
+    "unit": 5,
+    "question": "Identify each treatment from the text: (a) Prolonged heating slightly below the critical temperature range to produce a globular carbide condition: ______. (b) Heating above the critical range followed by cooling in air: ______. (c) Heating and quenching certain iron-based alloys: ______.",
+    "answer": "(a) spheroidizing; (b) normalizing; (c) hardening.",
+    "locations": "Para. 5、6、8；PPT 第 20–22、27 页。",
+    "type": "Practice(Fill in the blanks)",
+    "materials": "据 PPT 各方法定义改编。第 (a) 项考查讲义先给的基本路径，不替代该段随后补述的高碳钢交替加热情形。"
+  },
+  {
+    "sourceFile": "Unit 05 Heat Treatment 同步练习.md",
+    "sourceId": "Q09",
+    "unit": 5,
+    "question": "What purposes of annealing are listed in the text? Give any three.",
+    "answer": "Examples: removing stresses, inducing softness, changing ductility or toughness, refining the crystalline structure, removing gases, and producing a microstructure. Any three purposes stated in the paragraph are acceptable.",
+    "locations": "Para. 7；PPT 第 24–25 页。",
+    "type": "Reading Comprehension",
+    "materials": "据 PPT 退火正文改编。remove gases 按英文理解为“去除气体”，不照抄第 24 页中文的“消除气隙”。"
+  },
+  {
+    "sourceFile": "Unit 05 Heat Treatment 同步练习.md",
+    "sourceId": "Q10",
+    "unit": 5,
+    "question": "Translate into Chinese: “Tempering is the reheating after hardening of iron-based alloys to some temperature below the critical temperature range, followed by any desired rate of cooling. The purpose of tempering is the removal of strains, and the reduction of hardness and brittleness.”",
+    "answer": "回火是将淬火后的铁基合金重新加热至临界温度范围以下的某一温度，随后以所要求的速率冷却。回火的目的是消除应变，并降低硬度和脆性。",
+    "locations": "Para. 9；PPT 第 29 页。",
+    "type": "Translations",
+    "materials": "据 PPT 原句与译文设置翻译题。注意 after hardening 所表示的先后关系。第 28 页将 quenching media 误标为“延缓介质”，建议改为“淬火介质”，与本题的 hardening 区分。\n\n## 选题说明\n\nPPT 第 8–10 页的均质化与时效处理是额外拓展，未计入十题。第 21 页球化退火目的仍属讲义 Para. 5，虽然页上写作 Para. 4，本稿按讲义实际段落定位。判断题保留课件中的 Y/N 用法，在 Types 中归入 Practice(True or False)。"
+  },
+  {
+    "sourceFile": "Unit 06 Welding 同步练习.md",
+    "sourceId": "Q01",
+    "unit": 6,
+    "question": "Why is it difficult to define welding? Why are the earlier definitions no longer sufficient?",
+    "answer": "Welding methods have become very diverse. Not all methods use fusion, some can join plastics, and several do not require heat. Therefore, the earlier definitions based only on melting metals or joining metals by heat are insufficient.",
+    "locations": "Para. 1；PPT 第 11–12 页。",
+    "type": "Reading Comprehension",
+    "materials": "合并 PPT “Why is it hard to define welding?” 与旧定义问题。依据是第一段按 fusion、heat、plastics、heatless methods 展开的定义变化。"
+  },
+  {
+    "sourceFile": "Unit 06 Welding 同步练习.md",
+    "sourceId": "Q02",
+    "unit": 6,
+    "question": "Complete the definition adopted in the text: “Welding is the joining of ______ and ______ by methods that do not employ ______.”",
+    "answer": "metals; plastics; fastening devices.",
+    "locations": "Para. 1 末句；PPT 第 11–12 页。",
+    "type": "Practice(Fill in the blanks)",
+    "materials": "将 PPT 关于当前定义的问题改编为填空。此处考查“课文采用的定义”，不把教材表述标为最新行业标准。"
+  },
+  {
+    "sourceFile": "Unit 06 Welding 同步练习.md",
+    "sourceId": "Q03",
+    "unit": 6,
+    "question": "What is the main idea of the second paragraph? Why is there no uniform method of naming welding processes?",
+    "answer": "There is no uniform naming method. Processes may be named after the heat source, shielding method, or type of joint. The same joint type may also be produced by different processes.",
+    "locations": "Para. 2；PPT 第 13 页。",
+    "type": "Reading Comprehension",
+    "materials": "PPT 原题合并。可用 spot welding、butt welding 作为本段中的例子。"
+  },
+  {
+    "sourceFile": "Unit 06 Welding 同步练习.md",
+    "sourceId": "Q04",
+    "unit": 6,
+    "question": "What is soldering?",
+    "answer": "Soldering is the process of joining two metals by a third metal applied in the molten state.",
+    "locations": "Para. 4 首句；PPT 第 27 页。",
+    "type": "Reading Comprehension",
+    "materials": "PPT 原题。考查第三种金属作为熔融连接材料，不要求背诵拓展页的温度数值。"
+  },
+  {
+    "sourceFile": "Unit 06 Welding 同步练习.md",
+    "sourceId": "Q05",
+    "unit": 6,
+    "question": "Translate into Chinese: “Soldering gives a satisfactory joint for light articles of steel, copper or brass, but the strength of a soldered joint is rather less than a joint which is brazed, riveted or welded.”",
+    "answer": "软钎焊可为钢、铜或黄铜制的轻型制件形成令人满意的接头，但软钎焊接头的强度明显低于硬钎焊、铆接或焊接接头的强度。",
+    "locations": "Para. 4；PPT 第 31 页。",
+    "type": "Translations",
+    "materials": "据 PPT 原句设置翻译题。术语：soldering 软钎焊；brazing 硬钎焊；riveted 铆接的。翻译比较结构时补出第二个“强度”，使中文逻辑清晰。"
+  },
+  {
+    "sourceFile": "Unit 06 Welding 同步练习.md",
+    "sourceId": "Q06",
+    "unit": 6,
+    "question": "Fill in the four steps of pressure welding in the order given in the PPT: Step 1 ______; Step 2 ______; Step 3 ______; Step 4 ______.",
+    "answer": "(1) Clean the surfaces thoroughly first. (2) Heat the ends of the metal to a white heat. (3) Press or hammer the ends together. (4) Smooth off the joint.",
+    "locations": "Para. 5；PPT 第 40 页。",
+    "type": "Practice(Fill in the blanks)",
+    "materials": "PPT 原有步骤填空题。讲义先说明加热与压合，随后强调首先清洁；练习采用 PPT 已整理出的操作顺序。"
+  },
+  {
+    "sourceFile": "Unit 06 Welding 同步练习.md",
+    "sourceId": "Q07",
+    "unit": 6,
+    "question": "Translate into Chinese: “The ends of metal are heated to a white heat—for iron, the welding temperature should be about 1300°C—in a flame.”",
+    "answer": "将金属端部在火焰中加热至白炽状态；对于铁，焊接温度应约为 1300°C。",
+    "locations": "Para. 5；PPT 第 37–38 页。",
+    "type": "Translations",
+    "materials": "PPT 翻译内容。in a flame 表示加热方式；1300°C 指句中所说的焊接温度，不应译为“火焰温度”。数值按教材保留。"
+  },
+  {
+    "sourceFile": "Unit 06 Welding 同步练习.md",
+    "sourceId": "Q08",
+    "unit": 6,
+    "question": "Give the Chinese meaning of “flux”. What happens to the flux and oxide particles during the pressure-welding operation described in the text?",
+    "answer": "flux：焊剂。At welding heat, the flux melts and dissolves oxide particles and other impurities. It is squeezed out when the metal surfaces are pressed together.",
+    "locations": "Para. 5；PPT 第 41 页。",
+    "type": "Term",
+    "materials": "据 PPT 术语页与讲义改编。答题依据以本段对焊剂熔化、溶解氧化物及挤出的说明为准。"
+  },
+  {
+    "sourceFile": "Unit 06 Welding 同步练习.md",
+    "sourceId": "Q09",
+    "unit": 6,
+    "question": "According to the last paragraph, how can the heat for fusion welding be generated?",
+    "answer": "It can be generated by an extremely hot flame from an oxy-acetylene torch or by an electric arc.",
+    "locations": "Para. 6 开头；PPT 第 45–48 页。",
+    "type": "Reading Comprehension",
+    "materials": "据 PPT 氧乙炔焊内容与讲义改编。限于本段列出的热源，重点理解 heat for fusion 与 electric arc。"
+  },
+  {
+    "sourceFile": "Unit 06 Welding 同步练习.md",
+    "sourceId": "Q10",
+    "unit": 6,
+    "question": "According to the text, how are two metal sheets or plates joined by spot welding?",
+    "answer": "They are placed together with a slight overlap. A current passes between the electrodes, and strong pressure is applied at welding temperature to make the weld.",
+    "locations": "Para. 6 末部，从 “A different method is usually employed…” 起；PPT 第 49 页的焊接工艺介绍任务可在此收束。",
+    "type": "Reading Comprehension",
+    "materials": "据讲义末段改编，用于补足 PPT 第 49 页综合介绍任务中的课文理解。此题不是 PPT 中逐字存在的题目。关键词：slight overlap、current、pressure。\n\n## 选题说明\n\nPPT 第 22–23 页的钢轨焊机宣传段落属于额外翻译材料，未选入课文同步题。第 49 页的综合口头介绍任务可在完成本组练习后使用。"
+  },
+  {
+    "sourceFile": "Unit 07 Antifriction Bearings 同步练习.md",
+    "sourceId": "Q01",
+    "unit": 7,
+    "question": "How is an antifriction bearing defined?",
+    "answer": "It is a bearing in which the main load is transferred through elements in rolling contact rather than in sliding contact.",
+    "locations": "Para. 1 首句；PPT 第 4 页。",
+    "type": "Reading Comprehension",
+    "materials": "PPT 原题。rolling contact 与 sliding contact 是定义中的关键对比。"
+  },
+  {
+    "sourceFile": "Unit 07 Antifriction Bearings 同步练习.md",
+    "sourceId": "Q02",
+    "unit": 7,
+    "question": "Give the two English terms used for “滚动轴承” in the first paragraph.",
+    "answer": "antifriction bearing; rolling bearing.",
+    "locations": "Para. 1；PPT 第 4 页第二题。",
+    "type": "Term",
+    "materials": "PPT 原有术语填空题。词形采用课文原词，用于与下一题 antifriction 的含义辨析衔接。"
+  },
+  {
+    "sourceFile": "Unit 07 Antifriction Bearings 同步练习.md",
+    "sourceId": "Q03",
+    "unit": 7,
+    "question": "Why does the text say it may be a mistake to describe a rolling bearing as “antifriction”?",
+    "answer": "Because some friction still exists, although “antifriction bearing” is a term widely used in industry.",
+    "locations": "Para. 1 末句；PPT 第 10–11 页。",
+    "type": "Reading Comprehension",
+    "materials": "PPT 原题。第 12 页的接触变形解释可作辅助，但本题不要求课外推导接触压力。"
+  },
+  {
+    "sourceFile": "Unit 07 Antifriction Bearings 同步练习.md",
+    "sourceId": "Q04",
+    "unit": 7,
+    "question": "What space and service-life requirements must the bearing elements satisfy in paragraph 2?",
+    "answer": "They must fit into a space of specified dimensions and have a satisfactory life when operated under the specified conditions.",
+    "locations": "Para. 2；PPT 第 13–14 页。",
+    "type": "Reading Comprehension",
+    "materials": "据 PPT 第 14 页设计要求填空与讲义改编。PPT 另列了承载要求；此题明确问空间和寿命两项，答案直接对应讲义正文。"
+  },
+  {
+    "sourceFile": "Unit 07 Antifriction Bearings 同步练习.md",
+    "sourceId": "Q05",
+    "unit": 7,
+    "question": "Name four factors a bearing specialist must consider. Why does the specialist arrive at a compromise?",
+    "answer": "Examples include fatigue loading, friction, heat, corrosion resistance, lubrication, machining tolerances, assembly, and cost. Any four listed in the paragraph are acceptable. A compromise is needed because the design has to take all these factors into account.",
+    "locations": "Para. 2 后半部分；PPT 第 15 页。",
+    "type": "Reading Comprehension",
+    "materials": "据 PPT 正文改编。compromise 在设计语境下表示综合折中，不译为原则性“妥协”。"
+  },
+  {
+    "sourceFile": "Unit 07 Antifriction Bearings 同步练习.md",
+    "sourceId": "Q06",
+    "unit": 7,
+    "question": "Translate into Chinese: “Thus the problem of the specialist in mechanical design is not how to design a rolling bearing but, rather, how to select one.”",
+    "answer": "因此，机械设计人员面临的问题并非如何设计一个滚动轴承，而是如何选择合适的滚动轴承。",
+    "locations": "Para. 3 末句；PPT 第 16 页。",
+    "type": "Translations",
+    "materials": "据 PPT 原句设置翻译题。上文依据是制造商已提供大量轴承类型、尺寸及推荐载荷和转速，不把此句扩展为轴承专业设计不再需要。"
+  },
+  {
+    "sourceFile": "Unit 07 Antifriction Bearings 同步练习.md",
+    "sourceId": "Q07",
+    "unit": 7,
+    "question": "Complete the sentence: Bearings are manufactured to take pure ______ loads, pure ______ loads, or a ______ of these two.",
+    "answer": "radial; thrust; combination.",
+    "locations": "Para. 5 首句；PPT 第 19–20 页。",
+    "type": "Practice(Fill in the blanks)",
+    "materials": "据 PPT 原句改编。radial load 径向载荷；thrust / axial load 轴向载荷。"
+  },
+  {
+    "sourceFile": "Unit 07 Antifriction Bearings 同步练习.md",
+    "sourceId": "Q08",
+    "unit": 7,
+    "question": "Complete the list of four essential parts of a ball bearing: the ______ ring, the ______ ring, the balls or ______ elements, and the ______.",
+    "answer": "outer; inner; rolling; separator.",
+    "locations": "Para. 5；PPT 第 20、22 页。",
+    "type": "Practice(Fill in the blanks)",
+    "materials": "据 PPT 部件正文与图名改编。对应中文为外圈、内圈、滚珠或滚动体、保持架。采用可见的第 22 页作图示参考，不依赖隐藏的第 21 页。"
+  },
+  {
+    "sourceFile": "Unit 07 Antifriction Bearings 同步练习.md",
+    "sourceId": "Q09",
+    "unit": 7,
+    "question": "Translate into Chinese: “In low-priced bearings the separator is sometimes omitted, but it has the important function of separating the elements so that rubbing contact will not occur.”",
+    "answer": "在价格较低的轴承中，保持架有时会被省去；但它具有将滚动体隔开的重要作用，以防止滚动体之间发生摩擦接触。",
+    "locations": "Para. 5 末句；PPT 第 23–24 页。",
+    "type": "Translations",
+    "materials": "据 PPT 原句与两种译文设置翻译题。separator 在这里是“保持架”；so that 解释其功能。"
+  },
+  {
+    "sourceFile": "Unit 07 Antifriction Bearings 同步练习.md",
+    "sourceId": "Q10",
+    "unit": 7,
+    "question": "What is the advantage of a filling notch in the inner and outer rings, and why does it reduce thrust capacity?",
+    "answer": "The notch allows more balls to be inserted, increasing load capacity. It reduces thrust capacity because the balls can bump against the edge of the notch under load.",
+    "locations": "Para. 7；PPT 第 27 页。",
+    "type": "Reading Comprehension",
+    "materials": "据 PPT 本段正文改编。filling notch 推荐译为“装球缺口”。区分增加的承载能力与受到影响的轴向承载能力，不简单概括为所有方向的能力都提高。\n\n## 选题说明\n\n参考 PPT 标为 part 1，止于讲义第 7 段。因此，本稿不把后续自调心轴承、滚子轴承、轴承寿命与额定寿命等内容假标为本 PPT 已讲授的问题。可在提供后续课件后另补练习。"
+  },
+  {
+    "sourceFile": "Unit 08 Screws Fasteners and Joints 同步练习.md",
+    "sourceId": "Q01",
+    "unit": 8,
+    "question": "Give the Chinese meanings of “bolt”, “nut”, “setscrew”, “rivet”, and “key” in paragraph 1.",
+    "answer": "bolt 螺栓；nut 螺母；setscrew 紧定螺钉；rivet 铆钉；key 键。",
+    "locations": "Para. 1；PPT 第 1–5 页。",
+    "type": "Term",
+    "materials": "据 PPT 首段术语改编。nut 推荐统一为“螺母”，资料中另有“螺帽”；setscrew 推荐“紧定螺钉”，资料中为“定位螺钉”。key 按机械连接语境译为“键”。"
+  },
+  {
+    "sourceFile": "Unit 08 Screws Fasteners and Joints 同步练习.md",
+    "sourceId": "Q02",
+    "unit": 8,
+    "question": "What is the main idea of the second paragraph?",
+    "answer": "An uninformed person might regard fasteners, or nuts and bolts, as a dull and uninteresting subject. The paragraph presents this impression before the text challenges it.",
+    "locations": "Para. 2；PPT 第 12 页。",
+    "type": "Reading Comprehension",
+    "materials": "PPT 原题。第 12 页还显示下一段的 “In spite of this taint…”；此题答案仅概括第 2 段，不把第 3 段的转折结论当成第 2 段主旨。"
+  },
+  {
+    "sourceFile": "Unit 08 Screws Fasteners and Joints 同步练习.md",
+    "sourceId": "Q03",
+    "unit": 8,
+    "question": "Why does paragraph 3 describe fasteners as an interesting subject in mechanical design?",
+    "answer": "There have been many inventions and a great variety of fasteners. Their materials, tightening behavior, and performance under different conditions involve important design questions.",
+    "locations": "Para. 3；PPT 第 16–17 页。",
+    "type": "Reading Comprehension",
+    "materials": "将 PPT “Question: Why?” 补足为可以独立阅读的题干。参考答案取自本段，不使用课件中学生另写的拓展短文替代原课文。"
+  },
+  {
+    "sourceFile": "Unit 08 Screws Fasteners and Joints 同步练习.md",
+    "sourceId": "Q04",
+    "unit": 8,
+    "question": "Explain and translate “titanium fasteners”, “close-tolerance fasteners”, and “squeeze rivets”.",
+    "answer": "titanium fasteners：钛制紧固件，fasteners made from titanium；close-tolerance fasteners：公差要求严格的紧固件，fasteners with close tolerances；squeeze rivets：压铆铆钉，rivets installed by squeezing.",
+    "locations": "Para. 4；PPT 第 20 页。",
+    "type": "Term",
+    "materials": "据 PPT 原有复合词释义改编，分别体现制作材料、精度要求和安装方式。不要求背诵飞机紧固件数量及价格。"
+  },
+  {
+    "sourceFile": "Unit 08 Screws Fasteners and Joints 同步练习.md",
+    "sourceId": "Q05",
+    "unit": 8,
+    "question": "According to the text, what is the difference between a screw and a bolt, and where is the tightening torque applied?",
+    "answer": "A screw is intended primarily for assembly into a tapped hole and is tightened by torque on the head. A bolt is intended for use with a nut and is tightened by torque on the nut in the textbook description.",
+    "locations": "Para. 5；PPT 第 31 页。",
+    "type": "Reading Comprehension",
+    "materials": "PPT 原题，增加原段扭矩作用位置的追问。依据作者强调的 intended use，不将第 32 页另一个定义段混入答案。"
+  },
+  {
+    "sourceFile": "Unit 08 Screws Fasteners and Joints 同步练习.md",
+    "sourceId": "Q06",
+    "unit": 8,
+    "question": "Translate into Chinese: “A stud resembles a threaded rod; one end assembles into a tapped hole, the other end receives a nut.”",
+    "answer": "螺柱形似一根螺纹杆，一端旋入螺纹孔，另一端与螺母配合。",
+    "locations": "Para. 5；PPT 第 34 页。",
+    "type": "Translations",
+    "materials": "据 PPT 原句设置翻译题。stud 螺柱；tapped hole 螺纹孔；receives a nut 在此应按连接关系翻译。"
+  },
+  {
+    "sourceFile": "Unit 08 Screws Fasteners and Joints 同步练习.md",
+    "sourceId": "Q07",
+    "unit": 8,
+    "question": "Complete the four head forms listed in paragraph 5: ______ head, ______ head, ______ head, and ______ socket head.",
+    "answer": "hexagon; fillister; flat; hexagon.",
+    "locations": "Para. 5 末句；PPT 第 38 页。",
+    "type": "Practice(Fill in the blanks)",
+    "materials": "据 PPT 头部分类原句改编。保留 fillister 的原文拼写，避免把第 43 页的 filister 笔误带入答案。此题考查原文英文名称，不依赖未标注译名的图片。"
+  },
+  {
+    "sourceFile": "Unit 08 Screws Fasteners and Joints 同步练习.md",
+    "sourceId": "Q08",
+    "unit": 8,
+    "question": "Translate into Chinese: “When a connection is desired which can be disassembled without destructing the parts assembled and which is strong enough to resist both external tensile load and shear load, or combination of these, then this simple bolted joint using hardened washer is a good solution.”",
+    "answer": "当所需连接既能在拆卸时不损坏被连接零件，又具有足够强度来承受外部拉伸载荷、剪切载荷或两者的联合作用时，采用硬化垫圈的这种简单螺栓连接是一种良好的方案。",
+    "locations": "Para. 6 首句；PPT 第 49–50 页。",
+    "type": "Translations",
+    "materials": "据 PPT 原句与译文设置翻译题。注意并列的两个 which 从句。tensile load 与 shear load 统一译为“拉伸载荷”和“剪切载荷”。"
+  },
+  {
+    "sourceFile": "Unit 08 Screws Fasteners and Joints 同步练习.md",
+    "sourceId": "Q09",
+    "unit": 8,
+    "question": "What are the effects of preload in the bolted joint described in paragraph 6?",
+    "answer": "It compresses the connected parts to improve resistance to external tensile load and creates friction between them to resist shear load. The text also states that high preload improves fatigue resistance and the locking effect.",
+    "locations": "Para. 6；PPT 第 52–53 页。",
+    "type": "Reading Comprehension",
+    "materials": "据 PPT 预紧正文改编。preload 统一译为“预紧载荷”。按原段解释其作用，不把第 3 段的设问转换为不附条件的拧紧操作指令。"
+  },
+  {
+    "sourceFile": "Unit 08 Screws Fasteners and Joints 同步练习.md",
+    "sourceId": "Q10",
+    "unit": 8,
+    "question": "Name the three methods listed for developing the required preload. For the turn-of-the-nut method, what condition must be reached before additional turning develops useful bolt tension?",
+    "answer": "Torque wrenching, pneumatic-impact wrenching, and the turn-of-the-nut method. For the last method, the snug-tight condition must first be reached. The required additional fraction of a turn is then determined from that condition.",
+    "locations": "Para. 7–8；PPT 第 54–61 页。",
+    "type": "Reading Comprehension",
+    "materials": "据 PPT 方法正文改编。torque wrenching 扭矩扳手法；pneumatic-impact wrenching 气动冲击扳手法；turn-of-the-nut method 螺母转角法；snug-tight condition 适度拧紧状态。未将教材中 180° 的特定举例推广为通用扭转要求。\n\n## 选题说明\n\nPPT 第 55–62 页统一标为 Para. 7，但其内容对应讲义实际 Para. 8，已按讲义修正位置。第 13–15 页的署名拓展短文、第 18–19 页的企业案例和第 24–30 页的跨主题复合词例子未计入本单元十题。"
+  },
+  {
+    "sourceFile": "Unit 09 Cams 同步练习.md",
+    "sourceId": "Q01",
+    "unit": 9,
+    "question": "What is a cam? What motion of the follower can be produced by the cam motion?",
+    "answer": "A cam is a machine element with a curved or grooved surface that mates with a follower and imparts motion to it. Its motion, usually rotation, can be transformed into follower oscillation, translation, or both.",
+    "locations": "Para. 1 前三句；PPT 第 10、14、40 页。",
+    "type": "Reading Comprehension",
+    "materials": "采用 PPT 第 40 页定义题，并结合第 14 页的课文说明。definition 中的 follower 译为“从动件”。"
+  },
+  {
+    "sourceFile": "Unit 09 Cams 同步练习.md",
+    "sourceId": "Q02",
+    "unit": 9,
+    "question": "Why is the cam an extremely versatile mechanical element?",
+    "answer": "Because there are various cam geometries and a large number of cam and follower combinations.",
+    "locations": "Para. 1；PPT 第 11 页优势问题及第 15 页正文。",
+    "type": "Reading Comprehension",
+    "materials": "将 PPT “What’s the advantage of cam device?” 聚焦为有明确课文依据的问题。关键词：geometries、combinations、versatile。"
+  },
+  {
+    "sourceFile": "Unit 09 Cams 同步练习.md",
+    "sourceId": "Q03",
+    "unit": 9,
+    "question": "Translate into Chinese: “Although a cam and follower may be designed for motion, path, or function generation, the majority of applications utilize the cam and the follower for function generation.”",
+    "answer": "虽然凸轮与从动件可用于运动生成、轨迹生成或函数生成，但大多数应用采用凸轮与从动件来实现函数生成。",
+    "locations": "Para. 1 末句；PPT 第 16 页。",
+    "type": "Translations",
+    "materials": "据 PPT 原句与译文设置翻译题。关注 although 的让步结构，function generation 采用 PPT 的“函数生成”译法。"
+  },
+  {
+    "sourceFile": "Unit 09 Cams 同步练习.md",
+    "sourceId": "Q04",
+    "unit": 9,
+    "question": "Complete the classification according to cam shape: ______ or ______ cams are two-dimensional or planar; ______ cams are three-dimensional or spatial.",
+    "answer": "disk; plate; cylindrical.",
+    "locations": "Para. 2 首句；PPT 第 18–19 页。",
+    "type": "Practice(Fill in the blanks)",
+    "materials": "据 PPT 分类正文改编。盘形或板形凸轮对应 disk / plate cam，圆柱凸轮对应 cylindrical cam。题目避开原句 “disk or plate translating” 的标点歧义。"
+  },
+  {
+    "sourceFile": "Unit 09 Cams 同步练习.md",
+    "sourceId": "Q05",
+    "unit": 9,
+    "question": "Give the three bases for classifying followers in the text, and one pair or group of examples for each.",
+    "answer": "(1) Motion: translation or oscillation. (2) Position of the straight-line motion relative to the camshaft center: radial or offset. (3) Contact-surface shape: flat-face, roller, point or knife-edge, and other shapes listed in the text.",
+    "locations": "Para. 2；PPT 第 20–22 页。",
+    "type": "Reading Comprehension",
+    "materials": "据 PPT 分类页改编。radial / in-line 在此对应“对心”，offset 对应“偏置”，不将其混同为载荷方向。"
+  },
+  {
+    "sourceFile": "Unit 09 Cams 同步练习.md",
+    "sourceId": "Q06",
+    "unit": 9,
+    "question": "Translate into Chinese: “In the case of a disk cam with a radial (in-line) translating roller follower the smallest circle that can be drawn tangent to the cam surface and concentric with the camshaft is the base circle.”",
+    "answer": "对于带对心直动滚子从动件的盘形凸轮，与凸轮表面相切且与凸轮轴同心的最小圆称为基圆。",
+    "locations": "Para. 3 首句；PPT 第 24–25 页。",
+    "type": "Translations",
+    "materials": "据 PPT 原句与译文设置翻译题。两项限定 tangent to 与 concentric with 均需译出。PPT 第 27 页另以理论轮廓说明基圆半径，与本句口径不同，正式授课前请教师统一；本题参考译文忠实于所给英文。"
+  },
+  {
+    "sourceFile": "Unit 09 Cams 同步练习.md",
+    "sourceId": "Q07",
+    "unit": 9,
+    "question": "Give the Chinese meanings of “trace point” and “pitch curve”. Where is the trace point for the roller follower described in the text?",
+    "answer": "trace point：轨迹点；pitch curve：理论轮廓线。The trace point is at the center of the roller and generates the pitch curve.",
+    "locations": "Para. 3 第二句；PPT 第 26–27 页。",
+    "type": "Term",
+    "materials": "据 PPT 术语说明改编。通过 roller center 将“轨迹点”与“理论轮廓线”的关系联系起来。"
+  },
+  {
+    "sourceFile": "Unit 09 Cams 同步练习.md",
+    "sourceId": "Q08",
+    "unit": 9,
+    "question": "What is the pressure angle in the cam mechanism described in the text?",
+    "answer": "It is the angle between the direction of the path of the roller center and the normal to the pitch curve through the roller center. It is the complement of the transmission angle.",
+    "locations": "Para. 3；PPT 第 28–29 页。",
+    "type": "Reading Comprehension",
+    "materials": "PPT 原题。抓住运动方向和理论轮廓线法线两个方向，避免只背诵一个孤立的“夹角”。"
+  },
+  {
+    "sourceFile": "Unit 09 Cams 同步练习.md",
+    "sourceId": "Q09",
+    "unit": 9,
+    "question": "Why can the pressure angle not be too large?",
+    "answer": "A large pressure angle produces an appreciable lateral force on the follower stem. With friction, this force tends to bind the follower in the guide.",
+    "locations": "Para. 3 末两句；PPT 第 30–33 页。",
+    "type": "Reading Comprehension",
+    "materials": "PPT 原题，语法整理。术语：lateral force / side thrust 侧向力；bind the follower in the guide 使从动件在导路中卡滞。"
+  },
+  {
+    "sourceFile": "Unit 09 Cams 同步练习.md",
+    "sourceId": "Q10",
+    "unit": 9,
+    "question": "Complete the sequence in a typical cam application: rise – ______ – ______ – possibly another ______. What follower quantity must also be specified?",
+    "answer": "dwell; return; dwell. The required follower displacement must also be specified, measured in centimeters or degrees in the text.",
+    "locations": "Para. 4 开头；PPT 第 37–38 页。",
+    "type": "Practice(Fill in the blanks)",
+    "materials": "据 PPT 典型应用正文改编。rise 升程；dwell 停歇；return 回程；displacement 位移。避免把凸轮转角与从动件位移混为同一量。\n\n## 选题说明\n\n第 2–9 页的一般运动及机械装置导入未单独计题。PPT 第 25 页保留了 “Lesson 18 Cams and Gears” 的旧标题，本文件按文件名、首页与讲义统一为 Unit 9 Cams。"
+  },
+  {
+    "sourceFile": "Unit 10 Machining 同步练习.md",
+    "sourceId": "Q01",
+    "unit": 10,
+    "question": "What is machining?",
+    "answer": "Machining is a shape-producing process in which a power-driven device causes material to be removed in chip form.",
+    "locations": "Lesson 1，Para. 1；PPT 第 8 页。",
+    "type": "Reading Comprehension",
+    "materials": "PPT 原题。关键词：shape-producing、power-driven device、chip form。材料以切屑形式去除是答题重点。"
+  },
+  {
+    "sourceFile": "Unit 10 Machining 同步练习.md",
+    "sourceId": "Q02",
+    "unit": 10,
+    "question": "Complete the sentence: Most machining is done with equipment that supports both the ______ and the ______.",
+    "answer": "workpiece; cutting tool.",
+    "locations": "Lesson 1，Para. 1；PPT 第 10 页。",
+    "type": "Practice(Fill in the blanks)",
+    "materials": "将 PPT “Another feature for this manufacturing process is…” 聚焦为原句填空。讲义同时保留便携设备的例外，题干中的 most 不应改为 all。"
+  },
+  {
+    "sourceFile": "Unit 10 Machining 同步练习.md",
+    "sourceId": "Q03",
+    "unit": 10,
+    "question": "What are the two applications of machining in manufacturing described in the text?",
+    "answer": "Low setup cost for small quantities, and close accuracies with good surface finishes.",
+    "locations": "Lesson 1，Para. 2–3 的段首提示语；PPT 第 19 页。",
+    "type": "Reading Comprehension",
+    "materials": "PPT 原题。low setup cost 指小批量生产的准备费用低，不应把整台机床理解为低成本设备。"
+  },
+  {
+    "sourceFile": "Unit 10 Machining 同步练习.md",
+    "sourceId": "Q04",
+    "unit": 10,
+    "question": "Translate into Chinese: “By making use of generally high cost equipment but without special tooling, it is possible, by machining, to start with nearly any form of raw material, so long as the exterior dimensions are great enough, and produce any desired shape from any material.”",
+    "answer": "利用通常价格较高的设备，但无需专用工装，只要原材料的外形尺寸足够大，就可以通过机加工，采用几乎任意形态的原材料，将各种材料加工成所需形状。",
+    "locations": "Lesson 1，Para. 2；PPT 第 14 页，并参照第 19 页的优势问题。",
+    "type": "Translations",
+    "materials": "据 PPT 原句设置翻译题。without special tooling 译为“无需专用工装”，不采用 PPT 中文的“无需后续加工”。“any”系教材概括性表达，此题保留句意。"
+  },
+  {
+    "sourceFile": "Unit 10 Machining 同步练习.md",
+    "sourceId": "Q05",
+    "unit": 10,
+    "question": "Why are some parts given a general shape by another process and then machined only on selected surfaces?",
+    "answer": "Other processes can produce their general shape, while machining is used on selected surfaces where high accuracy and good surface finish are needed.",
+    "locations": "Lesson 1，Para. 3；PPT 第 16、18 页。",
+    "type": "Reading Comprehension",
+    "materials": "从 PPT 第 18 页关于 high accuracies and good finishes 的理解题中选取一个有明确课文支撑的问点。"
+  },
+  {
+    "sourceFile": "Unit 10 Machining 同步练习.md",
+    "sourceId": "Q06",
+    "unit": 10,
+    "question": "What three major functions does a machine tool perform?",
+    "answer": "It rigidly supports the workpiece or its holder and the cutting tool, provides relative motion between the workpiece and cutting tool, and provides a range of feeds and speeds.",
+    "locations": "Lesson 2，Para. 1；PPT 第 23 页。",
+    "type": "Reading Comprehension",
+    "materials": "据 PPT 正文改编。holder 在 workpiece or its holder 中指工件夹持装置，不沿用 PPT 将其译为“刀架”的标注。"
+  },
+  {
+    "sourceFile": "Unit 10 Machining 同步练习.md",
+    "sourceId": "Q07",
+    "unit": 10,
+    "question": "Complete the classification: Machines using ______ tools include engine lathes and boring machines. Machines using ______ tools include drilling and milling machines.",
+    "answer": "single-point; multipoint.",
+    "locations": "Lesson 2，Para. 2–3；PPT 第 25、30、36 页。",
+    "type": "Practice(Fill in the blanks)",
+    "materials": "据 PPT 分类正文改编。single-point tools 单刃刀具；multipoint tools 多刃刀具。题目保留车削、镗削与钻削、铣削的教材分组。"
+  },
+  {
+    "sourceFile": "Unit 10 Machining 同步练习.md",
+    "sourceId": "Q08",
+    "unit": 10,
+    "question": "Translate into Chinese: “The lathe removes material by rotating the workpiece against a cutter to produce external or internal cylindrical or conical surfaces.”",
+    "answer": "车床通过使工件相对刀具旋转来去除材料，从而加工外圆柱面、内圆柱面或锥面。",
+    "locations": "Lesson 2，Para. 5；PPT 第 45 页。",
+    "type": "Translations",
+    "materials": "据 PPT 原句设置翻译题。旋转的是 workpiece。PPT 中文误写“旋转的刀具”，参考译文已按英文纠正。"
+  },
+  {
+    "sourceFile": "Unit 10 Machining 同步练习.md",
+    "sourceId": "Q09",
+    "unit": 10,
+    "question": "Give the Chinese meanings of “spindle”, “lathe bed”, “carriage”, and “apron”, and state one function of the apron.",
+    "answer": "spindle 主轴；lathe bed 床身；carriage 拖板；apron 溜板箱。The apron contains driving gears that move the tool and carriage along or across the ways.",
+    "locations": "Lesson 2，Para. 6–7；PPT 第 47–53 页。",
+    "type": "Term",
+    "materials": "据 PPT 部件说明改编。以部件功能核对译名，不把第 47 页的 base 与后文 lathe bed 混作同一句中的部件。"
+  },
+  {
+    "sourceFile": "Unit 10 Machining 同步练习.md",
+    "sourceId": "Q10",
+    "unit": 10,
+    "question": "What are the different functions of the feed rod and the lead screw?",
+    "answer": "The feed rod provides tool motion for accurate workpieces and good surface finishes. The lead screw provides the accurate lead needed for thread cutting.",
+    "locations": "Lesson 2，Para. 9；PPT 第 60–61 页。",
+    "type": "Reading Comprehension",
+    "materials": "据 PPT 正文改编。feed rod 光杠；lead screw 丝杠；lead 在本句的螺纹加工语境中为“导程”。\n\n## 选题说明\n\n第 2–7 页的工艺分类为跨单元回顾，未计入本单元十题。第 59 页的中英文螺纹数值不一致，未用该数值设题。"
+  },
+  {
+    "sourceFile": "Unit 11 Electrical Discharge Machining 同步练习.md",
+    "sourceId": "Q01",
+    "unit": 11,
+    "question": "What is the main idea of the first paragraph?",
+    "answer": "EDM is a widely used non-traditional machining process applied in many industrial areas, especially for producing molds, dies, and parts with complex shapes.",
+    "locations": "Introduction 首段，以 “Electrical Discharge Machining (EDM) is…” 开头；PPT 第 12–13 页。",
+    "type": "Reading Comprehension",
+    "materials": "PPT 原题。按课文内容概括，不要求证明“最广泛应用”等教材中的比较性断言。"
+  },
+  {
+    "sourceFile": "Unit 11 Electrical Discharge Machining 同步练习.md",
+    "sourceId": "Q02",
+    "unit": 11,
+    "question": "What are the applications of EDM mentioned in the introductory paragraph? Give two kinds of products and two industrial areas.",
+    "answer": "Products include injection molds and dies, cutting tools, and parts with complex shapes. Industrial areas include the automotive industry and electronics. Other industries listed in the paragraph are also acceptable.",
+    "locations": "Introduction 首段；PPT 第 12、22 页。",
+    "type": "Reading Comprehension",
+    "materials": "采用 PPT 第 22 页应用题，限定答案来自首段，不要求引用课外应用知识。"
+  },
+  {
+    "sourceFile": "Unit 11 Electrical Discharge Machining 同步练习.md",
+    "sourceId": "Q03",
+    "unit": 11,
+    "question": "Translate into Chinese: “Any material that conducts electricity can be machined, whatever its hardness.”",
+    "answer": "任何导电材料，无论其硬度如何，都可以采用电火花加工。",
+    "locations": "Advantages and disadvantages 段；PPT 第 24 页。",
+    "type": "Translations",
+    "materials": "据 PPT 原句设置翻译题。that conducts electricity 是范围限定，whatever its hardness 是让步成分，两者都必须译出。"
+  },
+  {
+    "sourceFile": "Unit 11 Electrical Discharge Machining 同步练习.md",
+    "sourceId": "Q04",
+    "unit": 11,
+    "question": "What disadvantages of EDM are listed in the text?",
+    "answer": "A relatively low material removal rate, surface modification of the machined workpiece, and limitations on the size of the workpiece and tool.",
+    "locations": "Advantages and disadvantages 段后半部分，从 “On the other hand…” 起；PPT 第 25 页。",
+    "type": "Reading Comprehension",
+    "materials": "据 PPT 缺点正文改编。surface modification 在此联系 white layer 与 heat affected zone；无需记忆数值范围。"
+  },
+  {
+    "sourceFile": "Unit 11 Electrical Discharge Machining 同步练习.md",
+    "sourceId": "Q05",
+    "unit": 11,
+    "question": "Mark T or F and correct the false statement: (a) There is mechanical contact between the electrode and workpiece during EDM. (b) Both the electrode and the workpiece must be electrically conductive because material removal is produced by electrical discharges.",
+    "answer": "(a) F. There is no mechanical contact between the electrode and workpiece. (b) T.",
+    "locations": "Principles 首段；PPT 第 29、39 页。",
+    "type": "Practice(True or False)",
+    "materials": "保留 PPT 第 39 页原有判断题形式。这是 Excel 四类题型之外、PPT 中确有的题型，以 Practice 子类记录。"
+  },
+  {
+    "sourceFile": "Unit 11 Electrical Discharge Machining 同步练习.md",
+    "sourceId": "Q06",
+    "unit": 11,
+    "question": "Give the Chinese meanings of “dielectric liquid” and “thermal erosion”. How is workpiece material removed according to the Principles paragraph?",
+    "answer": "dielectric liquid：液体电介质／绝缘工作液；thermal erosion：热蚀除。Small volumes of workpiece material are removed after being melted or vaporized during electrical discharges.",
+    "locations": "Principles 首段；PPT 第 29 页。",
+    "type": "Term",
+    "materials": "据 PPT 原文改编。第 29 页把 dielectric liquid 标为“电解质溶液”、thermal erosion 标为“热腐蚀”，与该页英文及后文对绝缘介质击穿、熔化和汽化的描述不吻合，本题按上下文给出推荐译法并保留该差异供审核。"
+  },
+  {
+    "sourceFile": "Unit 11 Electrical Discharge Machining 同步练习.md",
+    "sourceId": "Q07",
+    "unit": 11,
+    "question": "Complete the sentences: (a) The breakdown of the dielectric is initiated by ______. (b) The location of breakdown is generally between ______.",
+    "answer": "(a) moving the electrode towards the workpiece; (b) the closest points of the electrode and the workpiece.",
+    "locations": "Principles 中以 “Figure 1.2 gives…” 开头的段落；PPT 第 33、39 页。",
+    "type": "Practice(Fill in the blanks)",
+    "materials": "PPT 第 39 页原有填空题。保留 generally，讲义还指出间隙中的颗粒会影响击穿位置。"
+  },
+  {
+    "sourceFile": "Unit 11 Electrical Discharge Machining 同步练习.md",
+    "sourceId": "Q08",
+    "unit": 11,
+    "question": "Complete the sequence: (a) Apply ______ between the electrode and workpiece. (b) Dielectric breakdown creates a ______. (c) The workpiece material is heated, ______ and ______. (d) At the end of the discharge, the plasma collapses and molten material is ______.",
+    "answer": "voltage; plasma channel; melted; vaporized; removed into the dielectric.",
+    "locations": "Principles 的击穿、放电与结束三段；PPT 第 32–36 页。",
+    "type": "Practice(Fill in the blanks)",
+    "materials": "据 PPT 第 32 页的四阶段总结改编，与后面三段课文同步使用。plasma channel 等离子通道；molten metal pool 熔池。"
+  },
+  {
+    "sourceFile": "Unit 11 Electrical Discharge Machining 同步练习.md",
+    "sourceId": "Q09",
+    "unit": 11,
+    "question": "What are the functions of the liquid dielectric during the process?",
+    "answer": "It cools the electrodes, maintains pressure that helps remove molten metal when the plasma collapses, solidifies molten metal into small particles, and flushes the particles away to prepare the gap for the next discharge.",
+    "locations": "Principles 最后一段，以 “The liquid dielectric plays…” 开头；PPT 第 38 页。",
+    "type": "Reading Comprehension",
+    "materials": "PPT 原题。与放电后的间隙清理联系起来，不只回答“冷却”。"
+  },
+  {
+    "sourceFile": "Unit 11 Electrical Discharge Machining 同步练习.md",
+    "sourceId": "Q10",
+    "unit": 11,
+    "question": "According to the last paragraph, why must the removed particles be flushed out of the electrode gap?",
+    "answer": "If particles remain, the electrical conductivity of the dielectric liquid increases. This makes the process difficult to control and leads to poor machining quality.",
+    "locations": "Principles 最后一段中 “If particles stay in the gap…” 一句；PPT 第 38 页功能题的延伸，对应讲义后半段。",
+    "type": "Reading Comprehension",
+    "materials": "据讲义正文改编，补足 PPT 功能问题未展开的因果关系。不是 PPT 中逐字存在的题目。\n\n## 选题说明\n\nPPT 第 2–10 页回顾锻造、粉末压制、铸造和车削，不属于 EDM 正文，未计入十题。第 40–45 页的独立阅读材料可作课后补充，核心十题优先对应讲义正文。讲义存在重复句及精度符号疑点，本稿未以这些数值设题。"
+  }
+]

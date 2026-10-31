@@ -4,3 +4,13 @@
 # CodeArts 工具内部数据（不属于项目本身）
 .codeartsdoer/
 .merkle-snapshot.json
+# 发布 skill 安装目录与锁文件（不属于项目）
+.agents/
+skills-lock.json
+
+# STS 临时凭证（敏感，严禁提交）
+sts-creds.json
+sts-creds.sh
+
+# 备份文件
+*.backup

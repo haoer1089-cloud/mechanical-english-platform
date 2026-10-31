@@ -9,12 +9,7 @@
   function graphFor(unit, reading) { return GRAPH[unit + '/' + reading] || null; }
   function hasData(unit, reading) { return !!graphFor(unit, reading); }
 
-  var PAD = 24, ROW_GAP = 84, SIB_GAP = 12, GROUP_GAP = 48, MIN_CANVAS = 900;
-  var SIZE = {
-    root: { w: 210, h: 100 },
-    group: { w: 200, h: 88 },
-    leaf: { w: 124, h: 70 }
-  };
+  var PAD = 24, ROW_GAP = 60, SIB_GAP = 14, GROUP_GAP = 48, MIN_CANVAS = 900;
 
   var state = null;
 
@@ -28,63 +23,69 @@
     return root.matchMedia && root.matchMedia('(prefers-reduced-motion: reduce)').matches;
   }
 
-  function sizeOf(node) {
-    if (!node.parentId) return SIZE.root;
-    var p = state.nodeById[node.parentId];
-    return (p && !p.parentId) ? SIZE.group : SIZE.leaf;
-  }
   function sizeClass(node) {
     if (!node.parentId) return 'term-node--root';
     var p = state.nodeById[node.parentId];
     return (p && !p.parentId) ? 'term-node--group' : 'term-node--leaf';
   }
 
-  function groupWidth(ids) {
-    var w = 0;
-    ids.forEach(function (id) { w += sizeOf(state.nodeById[id]).w; });
-    return w + SIB_GAP * Math.max(0, ids.length - 1);
+  function measureSizes() {
+    state.sizes = {};
+    state.data.nodes.forEach(function (n) {
+      var e = state.nodeEls[n.id];
+      state.sizes[n.id] = { w: e.offsetWidth, h: e.offsetHeight };
+    });
   }
 
   function defaultLayout() {
     var containerW = state.container.getBoundingClientRect().width;
-    var data = state.data, byId = state.nodeById, pos = {};
+    var data = state.data, byId = state.nodeById, sizes = state.sizes, pos = {};
     var root = data.nodes.filter(function (n) { return !n.parentId; })[0];
-    var rootSize = sizeOf(root);
+    var rootSize = sizes[root.id];
 
     var groups = data.nodes.filter(function (n) { return n.parentId === root.id; });
     var leaves = {};
     groups.forEach(function (g) { leaves[g.id] = data.nodes.filter(function (n) { return n.parentId === g.id; }); });
 
-    var totalLeaf = groups.reduce(function (s, g) { return s + groupWidth(leaves[g.id].map(function (n) { return n.id; })); }, 0)
-      + GROUP_GAP * Math.max(0, groups.length - 1);
-    var W = Math.max(MIN_CANVAS, containerW - PAD * 2, totalLeaf + PAD * 2);
+    var extent = {};
+    groups.forEach(function (g) {
+      var lw = leaves[g.id].reduce(function (s, n) { return s + sizes[n.id].w; }, 0) + SIB_GAP * Math.max(0, leaves[g.id].length - 1);
+      extent[g.id] = Math.max(sizes[g.id].w, lw);
+    });
+    var totalW = groups.reduce(function (s, g) { return s + extent[g.id]; }, 0) + GROUP_GAP * Math.max(0, groups.length - 1);
+    var W = Math.max(MIN_CANVAS, containerW - PAD * 2, totalW + PAD * 2);
 
-    pos[root.id] = { x: (W - rootSize.w) / 2, y: PAD };
-    var leafY = PAD + rootSize.h + ROW_GAP + SIZE.group.h + ROW_GAP;
-    var cx = (W - totalLeaf) / 2;
+    var rootY = PAD;
+    var groupH = groups.reduce(function (m, g) { return Math.max(m, sizes[g.id].h); }, 0);
+    var groupY = rootY + rootSize.h + ROW_GAP;
+    var leafY = groupY + groupH + ROW_GAP;
+
+    pos[root.id] = { x: (W - rootSize.w) / 2, y: rootY };
+    var cx = (W - totalW) / 2;
 
     groups.forEach(function (g) {
       var kids = leaves[g.id];
-      var lw = groupWidth(kids.map(function (n) { return n.id; }));
-      var gSize = sizeOf(g);
-      pos[g.id] = { x: cx + lw / 2 - gSize.w / 2, y: PAD + rootSize.h + ROW_GAP };
-      var lx = cx;
+      var lw = kids.reduce(function (s, n) { return s + sizes[n.id].w; }, 0) + SIB_GAP * Math.max(0, kids.length - 1);
+      var ext = extent[g.id];
+      pos[g.id] = { x: cx + (ext - sizes[g.id].w) / 2, y: groupY };
+      var lx = cx + (ext - lw) / 2;
       kids.forEach(function (n) {
         pos[n.id] = { x: lx, y: leafY };
-        lx += sizeOf(n).w + SIB_GAP;
+        lx += sizes[n.id].w + SIB_GAP;
       });
-      cx += lw + GROUP_GAP;
+      cx += ext + GROUP_GAP;
     });
     return { pos: pos, W: W };
   }
 
   function canvasSize(pos, W) {
     var bottom = PAD;
-    state.data.nodes.forEach(function (n) { bottom = Math.max(bottom, pos[n.id].y + sizeOf(n).h); });
+    state.data.nodes.forEach(function (n) { bottom = Math.max(bottom, pos[n.id].y + state.sizes[n.id].h); });
     return { w: W + PAD * 2, h: bottom + PAD };
   }
 
   function applyLayout() {
+    measureSizes();
     var res = defaultLayout();
     state.pos = res.pos;
     state.bounds = canvasSize(res.pos, res.W);
@@ -110,7 +111,7 @@
       var p = byId[n.parentId];
       if (!p) return;
       var a = state.pos[p.id], b = state.pos[n.id];
-      var ma = sizeOf(p), mb = sizeOf(n);
+      var ma = state.sizes[p.id], mb = state.sizes[n.id];
       var line = document.createElementNS('http://www.w3.org/2000/svg', 'line');
       line.setAttribute('x1', a.x + ma.w / 2);
       line.setAttribute('y1', a.y + ma.h);
@@ -126,7 +127,7 @@
   function clamp(v, lo, hi) { return Math.max(lo, Math.min(hi, v)); }
 
   function moveTo(id, x, y) {
-    var m = sizeOf(state.nodeById[id]);
+    var m = state.sizes[id];
     var nx = clamp(x, 0, Math.max(0, state.bounds.w - m.w));
     var ny = clamp(y, 0, Math.max(0, state.bounds.h - m.h));
     state.pos[id] = { x: nx, y: ny };
@@ -175,16 +176,47 @@
   }
 
   function categoryOf(node) {
-    if (!node.parentId) return '金属 Metal';
+    if (node.kind === 'group') return '教学分组 Teaching group';
+    if (!node.parentId) return (state.data && state.data.title) || '核心主题 Core theme';
     var p = state.nodeById[node.parentId];
-    if (p && !p.parentId) return '金属分类 Metal classification';
     return (p && p.term) || '';
+  }
+
+  function termLabel(id) {
+    var n = state.nodeById[id];
+    return n ? (n.term + ' · ' + n.cn) : id;
+  }
+
+  function renderProcessOrder(detail) {
+    var order = state.data.processOrder;
+    if (!order || !order.length) return;
+    var box = el('div', 'term-detail-process');
+    var h = el('h3', 'term-detail-subhead'); h.textContent = '局部顺序 Process order';
+    box.appendChild(h);
+    var names = order.map(function (id) { return state.nodeById[id] ? state.nodeById[id].term : id; });
+    var p = el('p', 'term-detail-process-line'); p.textContent = names.join(' → ');
+    box.appendChild(p);
+    detail.appendChild(box);
+  }
+
+  function renderDetailRelations(detail) {
+    var rels = state.data.detailRelations;
+    if (!rels || !rels.length) return;
+    var box = el('div', 'term-detail-relations');
+    var h = el('h3', 'term-detail-subhead'); h.textContent = '补充关系 Related';
+    box.appendChild(h);
+    rels.forEach(function (r) {
+      var item = el('p', 'term-detail-relation'); item.textContent = r.cn || '';
+      box.appendChild(item);
+    });
+    detail.appendChild(box);
   }
 
   function renderDetail(id) {
     var node = state.nodeById[id], detail = state.detailEl;
     detail.replaceChildren();
     if (!node) return;
+    var isGroup = node.kind === 'group';
 
     var head = el('div', 'term-detail-head');
     var title = el('h2', 'term-detail-title'); title.textContent = node.term;
@@ -194,25 +226,34 @@
 
     var def = el('p', 'term-detail-def'); def.textContent = node.definition || 'No definition available.';
     detail.appendChild(def);
+    if (node.definitionCn) {
+      var defCn = el('p', 'term-detail-def-cn'); defCn.textContent = node.definitionCn;
+      detail.appendChild(defCn);
+    }
 
     var meta = el('dl', 'term-detail-meta');
-    var dt = el('dt'); dt.textContent = '所属类别 Category';
+    var dt = el('dt'); dt.textContent = isGroup ? '节点类型 Node type' : '所属分类 Category';
     var dd = el('dd'); dd.textContent = categoryOf(node);
     meta.appendChild(dt); meta.appendChild(dd);
     detail.appendChild(meta);
 
-    var src = el('div', 'term-detail-source');
-    var text = lessonTextOf(node.sourceBlock);
-    if (text === null) {
-      if (root.console) console.warn('[term-view] source block missing:', node.sourceBlock);
-      var miss = el('span', 'term-source-missing'); miss.textContent = 'Source paragraph unavailable';
-      src.appendChild(miss);
-    } else {
-      var btn = el('button', 'term-goto-button'); btn.type = 'button'; btn.textContent = '查看课文原句 →';
-      btn.addEventListener('click', function () { if (state.hooks.onGotoBlock) state.hooks.onGotoBlock(node.sourceBlock); });
-      src.appendChild(btn);
+    if (!isGroup) {
+      var src = el('div', 'term-detail-source');
+      var text = lessonTextOf(node.sourceBlock);
+      if (text === null) {
+        if (root.console) console.warn('[term-view] source block missing:', node.sourceBlock);
+        var miss = el('span', 'term-source-missing'); miss.textContent = 'Source paragraph unavailable';
+        src.appendChild(miss);
+      } else {
+        var btn = el('button', 'term-goto-button'); btn.type = 'button'; btn.textContent = '查看课文原句 →';
+        btn.addEventListener('click', function () { if (state.hooks.onGotoBlock) state.hooks.onGotoBlock(node.sourceBlock); });
+        src.appendChild(btn);
+      }
+      detail.appendChild(src);
     }
-    detail.appendChild(src);
+
+    renderProcessOrder(detail);
+    renderDetailRelations(detail);
   }
 
   // ---------------------------------------------------------------- selection
@@ -239,7 +280,9 @@
     state.nodeById = {};
     state.data.nodes.forEach(function (n) { state.nodeById[n.id] = n; });
     state.data.nodes.forEach(function (n) {
-      var b = el('button', 'term-node ' + sizeClass(n));
+      var cls = 'term-node ' + sizeClass(n);
+      if (n.kind === 'group') cls += ' term-node--kind-group';
+      var b = el('button', cls);
       b.type = 'button';
       b.dataset.node = n.id;
       var en = el('span', 'term-node-en'); en.textContent = n.term;
@@ -292,7 +335,7 @@
     var data = graphFor(unit, reading);
     if (!data) { destroy(); return; }
     destroy();
-    state = { container: container, detailEl: detailEl, data: data, hooks: hooks || {}, selectedId: null, nodeEls: {}, nodeById: {}, pos: {}, bounds: { w: 0, h: 0 }, ro: null, cleanup: null };
+    state = { container: container, detailEl: detailEl, data: data, hooks: hooks || {}, selectedId: null, nodeEls: {}, nodeById: {}, sizes: {}, pos: {}, bounds: { w: 0, h: 0 }, ro: null, cleanup: null };
 
     state.canvas = el('div', 'term-canvas');
     state.svg = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
@@ -304,7 +347,7 @@
     buildNodes();
     buildToolbar();
     applyLayout();
-    var first = state.nodeById['metal'] ? 'metal' : (state.data.nodes[0] && state.data.nodes[0].id);
+    var first = (state.data.rootId && state.nodeById[state.data.rootId]) ? state.data.rootId : (state.data.nodes[0] && state.data.nodes[0].id);
     if (first) select(first);
     bindResize();
   }

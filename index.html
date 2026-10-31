@@ -10,8 +10,11 @@
 <nav id="readingTabs" aria-label="本单元课文"></nav>
 <div id="viewSwitch" hidden role="group" aria-label="阅读视图切换"><button id="viewReading" type="button" aria-pressed="true">课文精读</button><button id="viewTerms" type="button" aria-pressed="false">术语谱系</button></div>
 <p id="keyTermHint" hidden>加粗词为本课核心术语 / Key terms are emphasized.</p>
-<div id="teacherWorkspace"><article id="lessonText" aria-label="课文正文"></article><div id="workspaceDivider" role="separator" aria-label="调整课文与问题区域宽度" tabindex="0"></div><aside id="questionPanel" aria-label="课堂问题"><div class="question-panel-head"><div><span class="eyebrow">CLASSROOM TASKS</span><h2>课堂问题</h2></div><button id="toggleQuestions" aria-expanded="true">隐藏问题</button></div><p id="questionHint">点击 Answer 查看答案。</p><div id="questionList"></div></aside></div>
+<div id="teacherBar" hidden><button id="overviewToggle" type="button" aria-expanded="false">问题总览</button><button id="hideAllAnswers" type="button">全部隐藏答案</button></div>
+<div id="teacherWorkspace"><article id="lessonText" aria-label="课文正文"></article><section id="practiceArea" aria-label="课后巩固" hidden></section></div>
 <div id="termView" hidden><div id="termDiagram" aria-label="术语分类树"></div><aside id="termDetail" aria-label="术语详情" aria-live="polite"></aside></div>
+<aside id="questionOverview" aria-label="问题总览" hidden></aside>
+<div id="questionOverlay" role="dialog" aria-modal="true" aria-label="问题放大展示" hidden></div>
 <nav class="lesson-nav" aria-label="切换课文"><a id="previousReading"></a><a href="#units">返回单元目录</a><a id="nextReading"></a></nav>
 </main>
 <section id="highlightTools" hidden aria-label="悬浮高亮与字号工具">
